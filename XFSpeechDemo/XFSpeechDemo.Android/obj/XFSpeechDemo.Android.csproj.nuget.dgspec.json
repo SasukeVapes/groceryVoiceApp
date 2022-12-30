@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo.Android\\XFSpeechDemo.Android.csproj": {}
+  },
+  "projects": {
+    "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo.Android\\XFSpeechDemo.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo.Android\\XFSpeechDemo.Android.csproj",
+        "projectName": "XFSpeechDemo.Android",
+        "projectPath": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo.Android\\XFSpeechDemo.Android.csproj",
+        "packagesPath": "C:\\Users\\koren\\.nuget\\packages\\",
+        "outputPath": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\koren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo\\XFSpeechDemo.csproj": {
+                "projectPath": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo\\XFSpeechDemo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Plugin.CurrentActivity": {
+              "target": "Package",
+              "version": "[2.1.0.4, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.AndroidX.MediaRouter": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.AndroidX.Palette": {
+              "target": "Package",
+              "version": "[1.0.0.5, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            }
+          }
+        }
+      }
+    },
+    "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo\\XFSpeechDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo\\XFSpeechDemo.csproj",
+        "projectName": "XFSpeechDemo",
+        "projectPath": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo\\XFSpeechDemo.csproj",
+        "packagesPath": "C:\\Users\\koren\\.nuget\\packages\\",
+        "outputPath": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\koren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2401, )"
+            },
+            "Xamarin.Forms.InputKit": {
+              "target": "Package",
+              "version": "[3.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

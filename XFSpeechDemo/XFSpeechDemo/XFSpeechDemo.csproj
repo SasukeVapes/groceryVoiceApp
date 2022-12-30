@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Xamarin.CommunityToolkit" Version="2.0.2" />
+
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2401" />
+
+    <PackageReference Include="Xamarin.Forms.InputKit" Version="3.7.2" />
+
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\bin\Debug\netstandard2.0\XFSpeechDemo.dll' could not be found
+dotnet_diagnostic.CS0006.severity = none

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8UcGwgBn8eB7ONW/xir5Kp3HYt0WtYrHtMd1AaHtJJWn/llCkNXym/7YbfrhnClwXtmKTOdLwcUlYiAyKVFeGw==",
+  "success": true,
+  "projectFilePath": "D:\\university\\speachcode\\XFSpeech-master\\XFSpeechDemo\\XFSpeechDemo.iOS\\XFSpeechDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koren\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.2\\xamarin.communitytoolkit.2.0.2.nupkg.sha512",
+    "C:\\Users\\koren\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512",
+    "C:\\Users\\koren\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

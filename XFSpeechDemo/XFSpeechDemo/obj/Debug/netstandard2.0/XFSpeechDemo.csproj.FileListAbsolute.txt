@@ -1,0 +1,12 @@
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XFSpeechDemo.csprojAssemblyReference.cache
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XFSpeechDemo.AssemblyInfoInputs.cache
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XFSpeechDemo.AssemblyInfo.cs
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XFSpeechDemo.csproj.CoreCompileInputs.cache
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XFSpeechDemo.dll
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XFSpeechDemo.pdb
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\bin\Debug\netstandard2.0\XFSpeechDemo.deps.json
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\bin\Debug\netstandard2.0\XFSpeechDemo.dll
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\bin\Debug\netstandard2.0\XFSpeechDemo.pdb
+D:\university\speachcode\XFSpeech-master\XFSpeechDemo\XFSpeechDemo\obj\Debug\netstandard2.0\XamlC.stamp
